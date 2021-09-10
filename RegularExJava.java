@@ -1,7 +1,7 @@
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-public class ExceptionsJava {
+public class RegularExJava {
     public static void main(String[] args ){
         /*
         What is a Regular Expression?
